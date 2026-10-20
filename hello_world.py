@@ -1,2 +1,2 @@
-jea
+print("Hello World!")
 
